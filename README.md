@@ -5,7 +5,7 @@
 ![Modern UI/UX GPT-3](https://github.com/Tesfa37/modern_ui_ux_gpt3/blob/main/src/components/assets/Screenshot.png)
 
 ## Introduction
-This is a modern UI/UX design project inspired by the OpenAI GPT-3 model. The project showcases a clean and responsive design built with React and Tailwind CSS.
+This is a modern UI/UX design project inspired by the OpenAI GPT-3 model. The project showcases a clean and responsive design built with React and CSS.
 
 ## Features
 - **Responsive Design**: Ensuring the website looks great on all devices.
